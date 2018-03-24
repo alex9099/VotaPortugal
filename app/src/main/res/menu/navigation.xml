@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_presidenciais"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_presidenciais" />
+
+    <item
+        android:id="@+id/navigation_legislativas"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_legislativas" />
+
+    <item
+        android:id="@+id/navigation_europeias"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_europeias" />
+    <item
+        android:id="@+id/navigation_autarquicas"
+        android:icon="@android:drawable/arrow_down_float"
+        android:title="@string/title_autarquicas" />
+    <item
+        android:id="@+id/navigation_regionais"
+        android:icon="@android:drawable/arrow_up_float"
+        android:title="@string/title_regionais" />
+
+</menu>

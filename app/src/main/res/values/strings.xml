@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VOTA Portugal</string>
+    <string name="title_home">Home</string>
+    <string name="title_presidenciais">Presidenciais</string>
+    <string name="title_legislativas">Legislativas</string>
+    <string name="title_europeias">Europeias</string>
+    <string name="title_autarquicas">Autarquicas</string>
+    <string name="title_regionais">Regionais</string>
+
+
+</resources>
