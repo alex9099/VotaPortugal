@@ -6,6 +6,8 @@
     <string name="title_europeias">Europeias</string>
     <string name="title_autarquicas">Autarquicas</string>
     <string name="title_regionais">Regionais</string>
+    <string name="EleicaoPresidencialData">24 Janeiro 2016</string>
+    <string name="EleicaoPresidencialLocal">Local de votação</string>
 
 
 </resources>
